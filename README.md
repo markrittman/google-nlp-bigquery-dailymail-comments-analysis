@@ -6,3 +6,5 @@ Code used in my blog post "Using Google BigQuery, Google Cloud Natural Language 
 
 To download reader comments from Mail Online website:
 http://www.dailymail.co.uk/reader-comments/p/asset/readcomments/[article_id]?max=2000&sort=voteRating&order=desc
+
+[![Daily Mail Comments Download](https://github.com/markrittman/google-nlp-bigquery-dailymail-comments-analysis/blob/master/mailcomments.png)]
